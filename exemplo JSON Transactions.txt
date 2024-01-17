@@ -1,0 +1,3 @@
+senderId : 1               (*ID do Usuario que realizara uma transferência* -Ex: 1, type=Int)
+receiverId : 2             (*ID do Usuario que recebera uma transferência* -Ex: 2, type=Int)
+value : 200                (*Valor que será transferido* -Ex: 200, type=BigDecimal)
