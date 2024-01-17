@@ -1,0 +1,24 @@
+"firstName" : "Pedro",
+"lastName" : "Uchoa",
+"balance" : 500,
+"userType" : "COMMON",
+"password" : "123test",
+"document" : "321",
+"email" : "pedro@123.com"
+
+
+"firstName" : "Joao",
+"lastName" : "Uchoa",
+"balance" : 1000,
+"userType" : "COMMON",
+"password" : "123test",
+"document" : "123",
+"email" : "joao@123.com"
+
+"firstName" : "Maria",
+"lastName" : "Uchoa",
+"balance" : 100,
+"userType" : "COMMON",
+"password" : "123test",
+"document" : "121314",
+"email" : "maria@123.com"
